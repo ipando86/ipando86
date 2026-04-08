@@ -1,6 +1,9 @@
 ## Hi there 👋
+<img height="32" width="32" src="https://simpleicons.org/icons/javascript.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/css.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/nodedotjs.svg" />
 
-<!--
+<img height="32" width="32" src="https://simpleicons.org/icons/html5.svg" /> <!--
 **ipando86/ipando86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
