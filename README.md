@@ -29,7 +29,7 @@ Mi espacio personal en la web, diseñado para presentar mi trabajo, mis proyecto
 
 ## 📫 Cómo contactarme
 * 💼 **LinkedIn:** [https://www.linkedin.com/]
-* 🌐 **Portfolio Web:** [Tu-Enlace-Del-Portfolio]
+* 🌐 **Portfolio Web:** [aún por definir]
 * ✉️ **Email:** [mailto:ignaciopando@gmail.com](mailto:ignaciopando@gmail.com)
 
 ---
